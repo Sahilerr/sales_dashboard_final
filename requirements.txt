@@ -4,4 +4,5 @@ numpy
 plotly
 Pillow
 scikit-learn
-
+prophet
+google-generativeai
